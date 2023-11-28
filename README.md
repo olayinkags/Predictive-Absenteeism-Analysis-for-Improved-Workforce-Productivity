@@ -1,4 +1,5 @@
 Business Case Study: Predictive Absenteeism Analysis for Improved Workforce Productivity
+
 Introduction: In today's highly competitive business environment, organizations face increased pressure to achieve unattainable goals, leading to elevated stress levels among employees. The persistent presence of these factors may adversely impact an individual's health, potentially resulting in minor illnesses or even long-term conditions such as depression. Recognizing the importance of maintaining a healthy and productive workforce, our focus is on predicting absenteeism from work, specifically understanding whether an employee is likely to be absent for a certain number of hours during a workday.
 
 Objective: The primary objective is to leverage predictive analytics to anticipate employee absenteeism. By doing so, we aim to empower decision-makers with valuable insights into workforce availability, enabling proactive adjustments to the work process. The goal is to mitigate productivity gaps and enhance the overall quality of work generated within the organization.
